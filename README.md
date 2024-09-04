@@ -12,4 +12,4 @@ Answer of 1 => We should select a middle point every step.tThis lead to us ease 
                             [16]         [11,21]       [8]    [12,22]
                                 [11,16,21]               [8,12,22]
                                         [8,11,12,16,21,22]
-Answer of 2 =>2^x=n , x=logn  each step you covered logn number and there are n step so big o notation is O(n.logn)                                    
+Answer of 2 =>2^x=n , x=logn  each step,you covered logn numbers and there are n step so big o notation is O(n.logn)                                    
